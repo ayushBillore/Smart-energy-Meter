@@ -18,14 +18,14 @@ The Smart Energy Meter is an IoT-based system designed to monitor and analyze el
 
    
 3. **Microcontroller (ESP32/Arduino)**: Processes data and sends it to the cloud.
+5. **Cloud & Mobile App**: Displays energy usage, cost estimation, and alerts.
+6. **Smart Notifications**: Sends alerts for unusual consumption or voltage fluctuations.
+
+## 📸 Proof of Working  
 
 ![image](https://github.com/user-attachments/assets/c5e8c0c2-fc6f-4a92-a720-f941a32a55d0)
 
 ![image](https://github.com/user-attachments/assets/397f749d-950f-41d7-8557-3788e3f90074)
-
-   
-5. **Cloud & Mobile App**: Displays energy usage, cost estimation, and alerts.
-6. **Smart Notifications**: Sends alerts for unusual consumption or voltage fluctuations.
 
 This Smart Energy Meter helps users efficiently manage electricity usage, reduce energy waste, and lower electricity bills, making it an essential tool for smart homes and industries.
 
